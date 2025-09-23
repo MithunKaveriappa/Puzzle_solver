@@ -224,9 +224,3 @@ def getEuclideanDistance(state):
 
 ![image](https://user-images.githubusercontent.com/41492875/199296576-d3a2f02f-df99-499c-b9cc-85bddb3f46dc.png)
 
-## Contributors
-1- [Yousef Kotp](https://github.com/yousefkotp)
-
-2- [Adham Mohammed](https://github.com/adhammohamed1)
-
-3- [Mohammed Farid](https://github.com/MohamedFarid612)
