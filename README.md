@@ -18,7 +18,6 @@
         * [Which One is better?](#which-one-is-better)
   * [Analysis for Different Algorithms.](#analysis-for-different-algorithms)
   * [Graphical Interface](#graphical-interface)
-  * [Contributors](#contributors)
   
 ## Deployment
 - The project was built using [Python 3.9](https://www.python.org/downloads/release/python-390/), make sure you configure your python interpreter correctly
